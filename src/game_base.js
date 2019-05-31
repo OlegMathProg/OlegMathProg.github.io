@@ -56,9 +56,9 @@ function preload()
   {
     // Starting screen loading
     image('background','images/backgrounds/background.jpg');
-    image('play','images/menu/btn-play.png');
-    image('donuts','images/menu/donuts_logo.png');
-    image('volume','images/menu/btn-sfx.png');
+    image('play','images/main_menu/btn_play.png');
+    image('donuts','images/main_menu/donuts_logo.png');
+    image('volume','images/main_menu/btn_sfx.png');
     image('hand','images/game/hand.png');
     audio('menu_music',['audio/background.mp3'/*,'audio/background.ogg'*/]);
     audio('btn_music',['audio/select-9.mp3'/*,'audio/select-9.ogg'*/]);    
